@@ -1,2 +1,2 @@
 # OntologySFD
-Public opensource ontology dedicated gathering information about somatoform disorders
+An open-source OWL/RDF ontology for structured representation of knowledge about somatoform disorders. 
